@@ -380,4 +380,139 @@
   <g
      id="Labels"
      transform="matrix(0.54446341,0,0,0.54446341,244.16072,892.09536)" />
+  <g
+     id="g1027">
+    <text
+       id="text894"
+       y="86.711555"
+       x="44.633385"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="86.711555"
+         x="44.633385"
+         id="tspan892"
+         sodipodi:role="line">%(title1)s</tspan><tspan
+         id="tspan898"
+         y="150.71155"
+         x="44.633385"
+         sodipodi:role="line">%(title2)s</tspan><tspan
+         id="tspan900"
+         y="214.71155"
+         x="44.633385"
+         sodipodi:role="line">%(title3)s</tspan><tspan
+         id="tspan904"
+         y="278.71155"
+         x="44.633385"
+         sodipodi:role="line">%(title4)s</tspan></text>
+    <text
+       id="text908"
+       y="466.39215"
+       x="392.89844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="466.39215"
+         x="392.89844"
+         id="tspan906"
+         sodipodi:role="line">%(textScotland)s</tspan></text>
+    <text
+       id="text908-3"
+       y="1032.7833"
+       x="390.23605"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1032.7833"
+         x="390.23605"
+         id="tspan906-6"
+         sodipodi:role="line">%(textWales)s</tspan></text>
+    <text
+       id="text908-7"
+       y="1230.1099"
+       x="362.82956"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1230.1099"
+         x="362.82956"
+         id="tspan906-5"
+         sodipodi:role="line">%(textSouth West)s</tspan></text>
+    <text
+       id="text908-35"
+       y="1083.681"
+       x="737.1236"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1083.681"
+         x="737.1236"
+         id="tspan906-62"
+         sodipodi:role="line">%(textLondon)s</tspan></text>
+    <text
+       id="text908-9"
+       y="967.00781"
+       x="528.05139"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="967.00781"
+         x="528.05139"
+         id="tspan906-1"
+         sodipodi:role="line">%(textWest Midlands)s</tspan></text>
+    <text
+       id="text908-2"
+       y="1121.2671"
+       x="588.34558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1121.2671"
+         x="588.34558"
+         id="tspan906-7"
+         sodipodi:role="line">%(textSouth East)s</tspan></text>
+    <text
+       id="text908-0"
+       y="995.19733"
+       x="700.32056"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="995.19733"
+         x="700.32056"
+         id="tspan906-9"
+         sodipodi:role="line">%(textEast of England)s</tspan></text>
+    <text
+       id="text908-36"
+       y="784.55908"
+       x="613.40295"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="784.55908"
+         x="613.40295"
+         id="tspan906-0"
+         sodipodi:role="line">%(textYorkshire and The Humber)s</tspan></text>
+    <text
+       id="text908-6"
+       y="906.71362"
+       x="631.4129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="906.71362"
+         x="631.4129"
+         id="tspan906-2"
+         sodipodi:role="line">%(textEast Midlands)s</tspan></text>
+    <text
+       id="text908-61"
+       y="683.54669"
+       x="582.0813"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="683.54669"
+         x="582.0813"
+         id="tspan906-8"
+         sodipodi:role="line">%(textNorth East)s</tspan></text>
+    <text
+       id="text908-79"
+       y="809.61639"
+       x="430.95419"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:100%%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="809.61639"
+         x="430.95419"
+         id="tspan906-20"
+         sodipodi:role="line">%(textNorth West)s</tspan></text>
+  </g>
 </svg>
